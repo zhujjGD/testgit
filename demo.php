@@ -13,4 +13,11 @@ $f = "test checkout ";
 
 $g = "暂存区测绘测试";
 
+
+
+
+$dir = file_get_contents('key.txt.pub');
+
+echo $dir;
+
 ?>

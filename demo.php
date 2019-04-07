@@ -9,4 +9,7 @@ $d = "工作区、暂存区、master分支概念理解 test4";
 
 $e = "boss is shabi";
 
+$f = "test checkout ";
+
+$g = "暂存区测绘测试";
 ?>

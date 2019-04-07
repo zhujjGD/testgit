@@ -7,4 +7,6 @@ $c = "upd add commit test 3";
 
 $d = "工作区、暂存区、master分支概念理解 test4";
 
+$e = "boss is shabi";
+
 ?>
